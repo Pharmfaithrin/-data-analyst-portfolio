@@ -2,7 +2,8 @@ Data Analyst Portfolio
 Name:
 Location:Enugu State, Nigeria
 LinkedIn: https://linkedin.com/in/chukwumuanyafaithc
-Learning Journal:[your sql-learning-journal repo link]
+Learning Journal: https://github.com/Pharmfaithrin/sql-practice-journey
+                  http://notion.so/Data-Analyst-Journey-33bf4bd5cbfd80d2aa82f2d2e04ce0a4
 
 About Me
 I am an aspiring data analyst with a background in Excel,
@@ -35,4 +36,5 @@ Started: 07-04-2026
 Target: Job-ready in 3–6 months
 
 Follow my daily SQL practice →
-[sql-learning-journal link]
+https://github.com/Pharmfaithrin/sql-practice-journey
+http://notion.so/Data-Analyst-Journey-33bf4bd5cbfd80d2aa82f2d2e04ce0a4
